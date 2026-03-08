@@ -42,5 +42,10 @@ Create a comprehensive code review checklist for the
 OrderManager project that can also cover security and performance related issues
 https://github.com/github/awesome-copilot?tab=readme-ov-file
 
+
+Search for my latest merged PR and summarize it. What was the purpose and the
+key changes made?
+
+
 nalyze this repository and explain its architecture, identify potential
 issues, and suggest improvements
